@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Benjamin200011
-- 👀 I’m interested in ... software development 
-- 🌱 I’m currently learning ... React js
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ... Data Science 
+- 🌱 I’m currently learning ... Python
+- 💞️ I’m looking to collaborate on a Python and data science project
 - 📫 How to reach me ... otuyabenjamin2000@gmail.com
 
 <!---
